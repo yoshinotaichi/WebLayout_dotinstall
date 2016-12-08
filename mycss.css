@@ -1,0 +1,26 @@
+/* mycss.css */
+
+#container {
+	width: 700px;
+	margin: 0 auto;
+}
+#header {
+	background-color: red;
+}
+#main {
+	background-color: blue;
+	overflow: hidden;
+}
+#left {
+	background-color: pink;
+	float: left;
+	width: 30%;
+}
+#right {
+	background-color: purple;
+	float: right;
+	width: 60%;
+}
+#footer {
+	background-color: green;
+}
